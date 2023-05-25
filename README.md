@@ -2,7 +2,6 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Recent Computer Engineering Technology Graduate
 - 👨‍💻 Looking for opportunities to expand my knowledge and tackle real world problems.
 - :cloud: Cloud technologies is something I enjoy working with and learning more about daily.
 - 📚 I’m currently learning more about DevOps tools. 
