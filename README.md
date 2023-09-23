@@ -4,7 +4,6 @@
 
 - 👨‍💻 Looking for opportunities to expand my knowledge and tackle real world problems.
 - :cloud: Cloud technologies is something I enjoy working with and learning more about daily.
-- 📚 I’m currently learning more about DevOps tools. 
 - 💪🏼 Future Goals: Learn more about different technologies in different areas.
 - :zap: Excited to grow as an engineer.
 
